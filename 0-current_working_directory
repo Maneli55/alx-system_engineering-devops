@@ -1,4 +1,4 @@
 #!/bin/bash
 $ wc -l file should print 2
-pwd 0-current_working_directory
+pwd
 $
